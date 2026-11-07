@@ -180,4 +180,6 @@ curl -X DELETE $BASE/pedidos/1   # 204; o estoque volta para 15
 
 | Nome | RM |
 |---|---|
-| Giovanni Conde | *(preencher)* |
+| Giovanni Conde | RM5651213 |
+| Lucas Lima Franco | RM550255 |
+| Bruno César Toledo | RM554878 |
